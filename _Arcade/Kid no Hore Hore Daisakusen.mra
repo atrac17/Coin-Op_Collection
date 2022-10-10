@@ -5,6 +5,7 @@
     <year>1987</year>
     <manufacturer>Nichibutsu</manufacturer>
     <category>Platformer</category>
+    <rotation>vertical (ccw)</rotation>
     <rbf>terracresta</rbf>
 
     <switches default="8F,AF">
