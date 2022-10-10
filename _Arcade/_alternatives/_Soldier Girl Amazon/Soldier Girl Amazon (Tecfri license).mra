@@ -5,6 +5,7 @@
     <year>1986</year>
     <manufacturer>Nichibutsu</manufacturer>
     <category>Shoot 'em up</category>
+    <rotation>vertical (ccw)</rotation>
     <rbf>terracresta</rbf>
 
     <switches default="FF,FB">

@@ -5,6 +5,7 @@
     <mameversion>0245</mameversion>
     <year>1989</year>
     <manufacturer>SNK</manufacturer>
+    <rotation>vertical (cw)</rotation>
     <region>US</region>
 
     <switches default="ff,ff">
